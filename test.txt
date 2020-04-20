@@ -1,0 +1,8 @@
+#Aula 01#
+1. Utilizando o Google Colabs
+1.1 Uso do Python no GColabs
+2.0 Trabalhando com base de dados (Dataset)
+2.1 Utilizando dataframe (Estrutura de dados específica da biblioteca Pandas)
+3.0 Análise exploratória (Utilizada para criar questionamentos sobre os dados explorados)
+4.0 Desafios
+
