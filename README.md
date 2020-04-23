@@ -37,3 +37,11 @@
   <li>Corelação de variáveis</li>
  </ol>
 
+ <ol>
+  <strong>#Aula 04# -Passos para o Machine learning</strong>
+  <li>Visão geral</li>
+  <li>Ética na Inteligência Artificial</li>
+  <li>Análise de dados com pairplot</li>
+ </ol>
+
+
