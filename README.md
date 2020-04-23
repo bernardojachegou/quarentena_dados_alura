@@ -1,24 +1,39 @@
-#Aula 01# - Introdução
-1.0 Utilizando o Google Colabs
-1.1 Uso do Python no GColabs
-2.0 Trabalhando com base de dados (Dataset)
-2.1 Utilizando dataframe (Estrutura de dados específica da biblioteca Pandas)
-3.0 Análise exploratória (Utilizada para criar questionamentos sobre os dados explorados)
-4.0 Desafios
+<h3 align="center">
+  Quarentena Dados (Data Science) - Alura
+</h3>
 
-#Aula 02# - Resolução de Desafios
-1.0 Trabalhando com visualização de dados
-2.0 Plot de dados 
-2.1 Gráfico tipo pizza
-2.2 Gráfico tipo barra
-2.3 Métodos para melhorar a visualização
-3.0 Boxplot
+## :book: Conteúdo:
 
-#Aula 03# - Análise de dados (Desconhecido)
-1.0 Questionamentos possíveis
-2.0 Comparação de dados
-2.1 Selação de dados (Comparar)
-2.2 Utilizando <pairplot>
-2.3 Corelação de variáveis
+<p> Curso gratuito sobre Data Science oferecido pela Alura.
+</p>
 
-#Aula 04# -
+ <ol>
+  <strong>#Aula 01# - Introdução</strong>
+  <li>Utilizando o Google Colabs</li>
+  <li>Uso do Python no GColabs</li>
+  <li>Desestruturação</li>
+  <li>Trabalhando com base de dados (Dataset)</li>
+  <li>Utilizando dataframe (Estrutura de dados específica da biblioteca Pandas)</li>
+  <li>Análise exploratória (Utilizada para criar questionamentos sobre os dados explorados)</li>
+  <li>Desafios</li>
+ </ol>
+ 
+ <ol>
+  <strong>#Aula 02# - Resolução de Desafios</strong>
+  <li>Trabalhando com visualização de dados</li>
+  <li>Plot de dados</li>
+  <li>Gráfico tipo pizza (Não recomendado)</li>
+  <li>Gráfico tipo barra (Configurações)</li>
+  <li>Métodos para melhorar a visualização</li>
+  <li>Boxplot</li>
+ </ol>
+ 
+ <ol>
+  <strong>#Aula 03# - Análise de dados</strong>
+  <li>Elaboração de questionamentos</li>
+  <li>Comparação de dados</li>
+  <li>Selação de dados (Comparar)</li>
+  <li>Utilizando (pairplot)</li>
+  <li>Corelação de variáveis</li>
+ </ol>
+
