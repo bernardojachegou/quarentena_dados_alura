@@ -38,10 +38,19 @@
  </ol>
 
  <ol>
-  <strong>#Aula 04# -Passos para o Machine learning</strong>
+  <strong>#Aula 04# - Passos para o Machine learning</strong>
   <li>Visão geral</li>
   <li>Ética na Inteligência Artificial</li>
   <li>Análise de dados com pairplot</li>
  </ol>
+
+ <ol>
+  <strong>#Aula 05# - Regressão e Machine Learning</strong>
+  <li>Processo de classificação</li>
+  <li>Deteccção de padrão</li>
+  <li>Modelo de regressão</li>
+  <li>Modelo de árvore</li>
+ </ol>
+
 
 
